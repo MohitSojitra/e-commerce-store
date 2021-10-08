@@ -14,6 +14,7 @@
  
 
  - React Js
+ - Redux
 
 <br />
 
