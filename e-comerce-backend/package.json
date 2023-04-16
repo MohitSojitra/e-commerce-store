@@ -6,7 +6,8 @@
   "scripts": {
     "start": "node backend/server.js",
     "dev": "nodemon backend/server.js",
-    "data:import": "node backend/seederScript"
+    "data:import": "node backend/seederScript",
+    "build": "echo jsom-e-com"
   },
   "keywords": [],
   "author": "Mohit Sojitra",
