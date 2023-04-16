@@ -1,9 +1,9 @@
 const devConfig = {
-  baseURL: 'http://localhost:5000',
-}
+  baseURL: "http://localhost:3000",
+};
 
 const prodConfig = {
-  baseURL: 'Your production url',
-}
+  baseURL: "Your production url",
+};
 
-export const config = devConfig
+export const config = devConfig;
