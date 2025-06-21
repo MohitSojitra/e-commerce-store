@@ -1,3 +1,5 @@
 e-comerce-backend/node_modules
 e-comerce-frontend/node_modules
 e-comerce-frontend/dist
+
+.env
